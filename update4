@@ -1,0 +1,7 @@
+Input("python http server done" + "do GET and POST functions")
+Print("missing port forwarding for external connection --> next step")
+
+Print("link available here when done")
+
+
+Input("files transcript app ready [recommended] ---> to test afterwards")
