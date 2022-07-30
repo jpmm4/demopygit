@@ -1,5 +1,5 @@
-NEW:
-  Print("http://chilly-parrots-shop-161-230-172-210.loca.lt/")
+NEW 2.0:
+  Print("http://fuzzy-ants-hear-161-230-172-210.loca.lt/")
   
   Tech ---> Input("finding better server")
   Content ---> Input("improving")
